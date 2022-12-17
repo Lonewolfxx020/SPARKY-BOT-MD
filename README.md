@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-Eazy Bot Multi Device is a automated whatsapp bot created by <a href="https://github.com/Sparkymon777" target="_blank">Aswin Sparky</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
+Eazy Bot Multi Device is a automated whatsapp bot created by <a href="https://github.com/Sparkymon777" target="_blank">Panashe Kanjanda</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
 </p>
 
 <p align="center">
@@ -89,7 +89,7 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
   
   ## Thanks To
 * [`Xeon`](https://github.com/DGXeon)
-* [`Aswin Sparky`](https://github.com/Sparkymon777)
+* [`Panashe Kanjanda `](https://github.com/eazy2003/SPARKY-BOT-MD)
 
 
 ## Special Thanks to
