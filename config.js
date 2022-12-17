@@ -37,8 +37,8 @@ global.websitex1 = "https://sparkymodswa.blogspot.com"
 global.botscript = 'https://github.com/Sparkymon777/SPARKY-BOT-MD' //script link
 global.themeemoji = "👀" //ur theme emoji
 global.packname = "E A Z Y" //ur sticker watermark packname
-global.author = "ASWIN" //ur sticker watermark author
-global.wm = "S P A R K Y" //ur watermark
+global.author = "EAZY" //ur sticker watermark author
+global.wm = "E A Z Y" //ur watermark
 
 // Other
 global.sessionName = 'session'
