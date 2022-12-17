@@ -23,12 +23,12 @@ global.sgc = "github.com/Sparkymon777/SPARKY-BOT-MD" //ganti group lu
 global.location = "Kerala,TVM,Varkala" //ganti lokasi lu
 
 //bot bomdy 
-global.owner = ['917012984396'] //ur number
-global.ownernomer = "917012984396" //ur number
-global.ownertag = '917012984396' //ur tag number
-global.premium = ['917012984396'] //ur premium number
+global.owner = ['263715882540'] //ur number
+global.ownernomer = "263715882540" //ur number
+global.ownertag = '263715882540' //ur tag number
+global.premium = ['263715882540'] //ur premium number
 global.botname = 'SPARKY MD+' //ur bot name
-global.ownername = "ASWIN SPARKY"
+global.ownername = "EAZY"
 global.linkz = "https://youtube.com/@sparkymon777" //your theme url which will be displayed on whatsapp
 global.dana = "917012984396"
 global.pulsa = "917012984396"
