@@ -1,12 +1,12 @@
 
 
-<h1 align="center">SPARKY-BOT-MD<br></h1>
+<h1 align="center">EAZY-BOT-MD<br></h1>
 <p align="center">
 <img src="https://i.imgur.com/u9RfIfy.jpeg" alt="animated" width="255" height="350" />
 </p>
 
 <p align="center">
-Sparky Bot Multi Device is a automated whatsapp bot created by <a href="https://github.com/Sparkymon777" target="_blank">Aswin Sparky</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
+Eazy Bot Multi Device is a automated whatsapp bot created by <a href="https://github.com/Sparkymon777" target="_blank">Aswin Sparky</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
 </p>
 
 <p align="center">
