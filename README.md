@@ -88,9 +88,9 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
   
   
   ## Thanks To
-* [`Xeon`](https://github.com/DGXeon)
+* [`eazy`](https://github.com/eazy2003)
 * [`Panashe Kanjanda `](https://github.com/eazy2003/SPARKY-BOT-MD)
 
 
 ## Special Thanks to
-*[`ANDYMRlIT`](https://github.com/andymrlit)
+*[`SPARKY`](https://github.com/andymrlit)
