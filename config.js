@@ -14,8 +14,8 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['263715882540'] //ganti nomer lu
-global.ownername = "𝗘𝗔𝗭𝗬" //ganti nama lu
+global.vcardowner = ['263713281675'] //ganti nomer lu
+global.ownername = "WAYNE" //ganti nama lu
 global.developer = "𝗘𝗔𝗭𝗬" //nama lu
 global.ytname = "YT: SPARKY MON 777" //ur yt chanel name
 global.socialm = "https://www.instagram.com/aswin_sparky.exe" //taroh sosialmedia lu kalo ga punya biarin aja
